@@ -1,6 +1,0 @@
-CHROME_DRIVER_PATH = r'D:\Corbalas\Soft\Support\Chrome driver\chromedriver.exe'
-LOGIN_PATH = r'https://www.facebook.com/login'
-EXPECTED_PATH = r'https://www.facebook.com/'
-EMAIL_ID = 'email'
-PASSWORD_ID = 'pass'
-LOGIN_BUTTON_ID = 'loginbutton'
